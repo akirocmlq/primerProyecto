@@ -1,2 +1,2 @@
-# primerRepository
+# primerProyecto
 mi primer repository
